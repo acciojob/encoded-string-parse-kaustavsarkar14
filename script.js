@@ -1,4 +1,4 @@
-const parseCode = (str) => {
+const parseCode = (input) => {
   // your code here
 	  const regex = /^(.*?)000(.*?)000(\d+)$/;
   
